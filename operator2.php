@@ -9,5 +9,5 @@ echo ($x % $y);
 $a = "Hello";
 $b = $a . " world!";
 echo $b; 
-Echo $a. ― -- ‖ . $b. ― ini string operator ‖;
+echo $a. ― -- ‖ . $b. ― ini string operator ‖;
 ?>
